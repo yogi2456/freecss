@@ -1,0 +1,201 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.screen {
+    width: 100%;
+    height: 2000px;
+}
+.navbar {
+    width: 100%;
+    height: 210px;
+}
+.navbar > div:nth-child(1) {
+    width: 97%;
+    margin: auto;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+.custom {
+    display: flex;
+    justify-content: space-between;
+    width: 22%;
+    margin-top: 40px;
+}
+.hm {
+    color: red;
+    font-size: 45px;
+    margin-top: 20px;
+    font-weight: lighter;
+    letter-spacing: -5px;
+    font-style: italic;
+}
+.sign {
+    display: flex;
+    justify-content: space-between;
+    width: 24%;
+    margin-top: 40px;
+}
+.leftright {
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: -120px;
+}
+.left {
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 25%;
+    margin-top: 20px;
+    font-weight: lighter;
+}
+.right {
+    width: 12%;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+.right > div:nth-child(1) {
+    display: flex;
+    justify-content: space-between;
+}
+.right > div:nth-child(1) > p:nth-child(2) {
+    margin-right: 30px;
+}
+.right > div:nth-child(2) {
+    border: 1px solid black;
+    margin-top: 5px;
+}
+.member {
+    width: 100%;
+    height: 40px;
+    margin-top: 30px;
+}
+.member > div:nth-child(1) {
+    width: 7%;
+    margin: auto;
+    display: flex;
+    font-size: 14px;
+}
+.member > div > p:nth-child(2) {
+    margin-left: 5px;
+}
+.member > div > p:nth-child(3) {
+    margin-left: 5px;
+    color: red;
+}
+.price {
+    width: 80%;
+    margin-left: 20px;
+    border: 1px solid blue;
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-between;
+}
+.left1 {
+    width: 17%;
+    border: 1px solid red;
+}
+.right1 {
+    width: 80%;
+    border: 1px solid green;
+}
+.member > h3 {
+    font-size: 18px;
+    font-weight: lighter;
+}
+.member > p {
+    font-size: 16px;
+    margin-top: 10px;
+}
+.member1 {
+    margin-top: 40px;
+}
+.member1 > h3 {
+    font-size: 18px;
+    font-weight: lighter;
+}
+.member1 > p {
+    margin-top: 10px;
+    font-size: 16px;
+}
+.member2 {
+    margin-top: 40px;
+}
+.member2 > h3 {
+    font-size: 18px;
+    font-weight: lighter;
+}
+.member2 > p {
+    margin-top: 10px;
+    font-size: 16px;
+}
+.member3 {
+    margin-top: 40px;
+}
+.member3 > h3 {
+    font-size: 18px;
+    font-weight: lighter;
+}
+.member3 > p {
+    margin-top: 10px;
+    font-size: 16px;
+}
+.member4 {
+    margin-top: 40px;
+}
+.member4 > h3 {
+    font-size: 18px;
+    font-weight: lighter;
+}
+.member4 > p {
+    margin-top: 10px;
+    font-size: 16px;
+}
+.mens {
+    width: 100%;
+    height: 600px;
+}
+.mens1 {
+    width: 100%;
+    height: 600px;
+    background-image: url(https://image.hm.com/ffc/share/assets/2023/1008/men/3128_04_3x2.jpg?imwidth=2160);
+    background-size: cover;
+}
+.mens > h1 {
+    font-weight: bold;
+    font-size: 75px;
+    margin-top: -380px;
+    margin-left: 100px;
+    color: white;
+}
+.mens > button {
+    background-color: white;
+    color: black;
+    width: 100px;
+    height: 40px;
+    font-weight: bold;
+    margin-top: 15px;
+    border: none;
+    outline: none;
+    margin-left: 200px;
+}
+.special {
+    width: 100%;
+    height: 100px;
+    margin-top: 30px;
+    background-color: #F1EBDF;
+}
+.special > h3 {
+    color: red;
+    padding-top: 20px;
+    font-size: 25px;
+    text-align: center;
+}
+.special > p {
+    text-align: center;
+    font-size: 14px;
+    margin-top: 7px;
+}
