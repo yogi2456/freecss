@@ -167,13 +167,13 @@
     width: 60%;
     margin: auto;
     height: 150px;
-    border: 1px solid red;
-    background-image: url(&quot;https://lp2.hm.com/hmgoepprod?source=url[https://www2.hm.com/content/dam/global_campaigns/season_08/ladies/1008/1008-3x1-alt-2-autumn-winter-2023-drop-1.jpg]&scale=size[960]&sink=format[jpeg],quality[80]&quot;);
+    background-image: url(https://th.bing.com/th/id/OIP.Xyr9Zw5XAPMmiamYfxaelwHaE8?pid=ImgDet&rs=1);
+    background-size: cover;
 }
 .wins > h1 {
     text-align: center;
     font-size: 20px;
-    margin-top: 30px;
+    padding-top: 30px;
 }
 .wins > p {
     text-align: center;
